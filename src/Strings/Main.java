@@ -41,6 +41,18 @@ public class Main {
         String[] str = s1.split(" ");
         System.out.println(str[0]);
 
+        //Ersetzen:
+
+        //public String replace(String old, String new)
+        System.out.println(s1.replace("World","Welt"));
+
+        String s3 = "Musti KH 10 11 12";
+        System.out.println(s3.replaceFirst(" ","-"));
+
+
+
+
+
 
 
 
