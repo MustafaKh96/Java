@@ -2,6 +2,12 @@ package Strings;
 
 public class Main {
     public static void main(String [] args){
+
+        //Eine Zeichenkette ist im Prinzip nichts anderes als ein Array von einzelnen Zeichen (char).
+        //Deswegen ist zu beachten, dass auch hier, ebenso wie bei Arrays, das erste Zeichen den Index 0 hat.
+        //Daher entspricht der Index des letzten Elementes nicht der Länge der Zeichenkette,
+        //sondern der Länge-1.
+
         String s1 = "Hallo World" ;
         String s2 = "World" ;
 
