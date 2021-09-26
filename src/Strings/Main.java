@@ -75,5 +75,8 @@ public class Main {
         System.out.println(s1.length());
         //public String toLowerCase() => Die großbuchstaben werden kleinbuchstaben
         //public String toUpperCase() => Die kleinbuchstaben werden großbuchstaben
+        //trim
+        //Die Methode trim schneidet bei einer Zeichenkette sowohl führende als auch abschließende Leerzeichen ab.
+        //s.trim();
     }
 }
