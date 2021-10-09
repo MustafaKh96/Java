@@ -2,7 +2,9 @@ package Math;
 
 public class Main {
 
-    // Sie werden feststellen, dass alle genannten Funktionen double Zahlen behandeln und zurückgeben.
+    //Die Java-Math-Klasse verfügt über viele Methoden, mit denen Sie mathematische Aufgaben mit
+    // Zahlen ausführen können.
+    // Sie werden feststellen, dass die meisten Funktionen double Zahlen behandeln und zurückgeben.
     // Der Grund dafür ist, dass Sie mit dem double-Typ eine beliebige Zahl übergeben können,
     // sei es int, long oder float.
 
@@ -65,7 +67,9 @@ public class Main {
         //public static double random()   ترجع عدد عشوائي بين 0 و 1
 
         System.out.println(Math.random());
-        System.out.println(Math.random() + 9 ); // ترجع عدد عشوائي بين 9 و 10
+        System.out.println(Math.random() + 9 ); // [9,10]
+        System.out.println(Math.random() * 9 ); // [0,9]
+
 
         //----------------------------------
 
