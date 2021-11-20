@@ -3,7 +3,7 @@ package DT;
 public class Main {
     public static void main(String[] args){
 
-        // primitive DT:
+        // primitive DT: (8)
         // Die Werte werden direkt aufs Stak angelegt.
 
         byte a1 = 1; // 1 Byte
@@ -17,7 +17,7 @@ public class Main {
         char c2 = 65; //=> A ; ASCII-Wrte
         boolean e = true; // 2 Byte
 
-        // Referenz,Objekt DT:
+        // Referenz,Objekt DT: (3)
         // => Referenz auf Stak und verweisen auf die Objekte im Heap.
 
         // Strings:
