@@ -1,4 +1,4 @@
-package EqualsGleichGleich;
+package Bemerkungen.EqualsGleichGleich;
 
 import java.util.Objects;
 

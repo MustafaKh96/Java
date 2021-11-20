@@ -1,10 +1,10 @@
-package Strings;
+package Klassen.Strings;
 
 public class Main {
     public static void main(String [] args){
 
         //Eine Zeichenkette ist im Prinzip nichts anderes als ein Array von einzelnen Zeichen (char).
-        //Deswegen ist zu beachten, dass auch hier, ebenso wie bei Arrays, das erste Zeichen den Index 0 hat.
+        //Deswegen ist zu beachten, dass auch hier, ebenso wie bei DT.Arrays, das erste Zeichen den Index 0 hat.
         //Daher entspricht der Index des letzten Elementes nicht der Länge der Zeichenkette,
         //sondern der Länge-1.
 
@@ -36,7 +36,7 @@ public class Main {
         //public String[] split(String regex)
         //public String[] split(String regex, int limit)
         //Wo der Parameter limit ist, übergeben wir eine reguläre Zahl,
-        //die wir setzen, falls wir die Anzahl der Elemente des Arrays begrenzen möchten,
+        //die wir setzen, falls wir die Anzahl der Elemente des DT.Arrays begrenzen möchten,
         //die die Funktion zurückgibt.
         String[] str = s1.split(" ");
         System.out.println(str[0]);

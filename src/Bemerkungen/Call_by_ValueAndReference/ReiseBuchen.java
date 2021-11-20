@@ -1,4 +1,4 @@
-package Call_by_ValueAndReference;
+package Bemerkungen.Call_by_ValueAndReference;
 
 public class ReiseBuchen {
 
@@ -6,7 +6,7 @@ public class ReiseBuchen {
     // Variablen von Referenztypen (z.B. Kunde, Reise) werden als Referenz (call-by- reference) übergeben.
     // Änderungen sind im aufrufendem Kontext sichtbar.
 
-    public void checkKunde(Kunde kunde2,int type2){
+    public void checkKunde(Kunde kunde2, int type2){
         kunde2.setName( "Maier" );
         type2= 3;
     }

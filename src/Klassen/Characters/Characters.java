@@ -1,4 +1,4 @@
-package Characters;
+package Klassen.Characters;
 
 public class Characters {
 

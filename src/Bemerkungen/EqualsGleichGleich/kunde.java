@@ -1,4 +1,4 @@
-package EqualsGleichGleich;
+package Bemerkungen.EqualsGleichGleich;
 
 public class kunde {
     private String name;

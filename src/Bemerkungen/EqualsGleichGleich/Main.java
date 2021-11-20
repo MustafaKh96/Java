@@ -1,6 +1,4 @@
-package EqualsGleichGleich;
-
-import Call_by_ValueAndReference.Kunde;
+package Bemerkungen.EqualsGleichGleich;
 
 public class Main {
     public static void main(String[] args) {

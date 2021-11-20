@@ -1,6 +1,4 @@
-package Arrays;
-
-import java.util.ArrayList;
+package DT.Arrays;
 
 public class MD_Array {
     public static void main(String[] args){

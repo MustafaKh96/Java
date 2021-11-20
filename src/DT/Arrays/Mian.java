@@ -1,10 +1,10 @@
-package Arrays;
+package DT.Arrays;
 
 import java.util.Arrays;
 
 public class Mian {
 
-    // Arrays werden verwendet, um mehrere Werte in einer einzigen Variablen zu
+    // DT.Arrays werden verwendet, um mehrere Werte in einer einzigen Variablen zu
     // speichern, anstatt für jeden Wert separate Variablen zu deklarieren.
 
     public static void main(String[] args){
@@ -15,7 +15,7 @@ public class Mian {
         //=> Die Länge des Array wird in Laufzeit bestimmt.
         // D.h: in Kompilerzeit muss sie nicht bekannt sein.
         // Nicht wie in c, c++; wo sie in Kompilerzeit bekannt sein muss.
-        // D.h. Die Länge des Arrays ist NICHT Teil des Types.
+        // D.h. Die Länge des DT.Arrays ist NICHT Teil des Types.
 
         int [] i_arr = {1,2,3,4,5} ;
         String [] s_arr = {"Hallo" , "Welt", "!"};
@@ -46,7 +46,7 @@ public class Mian {
 
         //--------
 
-        // Auf die Elemente eines Arrays zugreifen:
+        // Auf die Elemente eines DT.Arrays zugreifen:
         System.out.println(i_arr[2]);
 
         //--------
@@ -69,7 +69,7 @@ public class Mian {
 
         // Methoden:
 
-        // Equals(x,y): Vergleicht Arrays gleicher Type.
+        // Equals(x,y): Vergleicht DT.Arrays gleicher Type.
         int [] a1 = {1,2,3,4,5};
         int [] a2 = {1,2,3,4,5};
         System.out.println(Arrays.equals(a1,a2));

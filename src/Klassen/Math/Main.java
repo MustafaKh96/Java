@@ -1,8 +1,8 @@
-package Math;
+package Klassen.Math;
 
 public class Main {
 
-    //Die Java-Math-Klasse verfügt über viele Methoden, mit denen Sie mathematische Aufgaben mit
+    //Die Java-Klassen.Math-Klasse verfügt über viele Methoden, mit denen Sie mathematische Aufgaben mit
     // Zahlen ausführen können.
     // Sie werden feststellen, dass die meisten Funktionen double Zahlen behandeln und zurückgeben.
     // Der Grund dafür ist, dass Sie mit dem double-Typ eine beliebige Zahl übergeben können,

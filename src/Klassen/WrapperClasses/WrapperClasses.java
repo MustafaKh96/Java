@@ -1,4 +1,4 @@
-package WrapperClasses;
+package Klassen.WrapperClasses;
 
 // Für alle primitiven Datentypen haben wir Klassen namens(Wrapper Klassen).
 // int -> Integer, char -> Character ...
