@@ -1,5 +1,6 @@
 package Operatoren;
 
+//Nur für Zahlen.
 public class ArithmetikOperatoren {
     public static void main(String[] args) {
         //+-*/%:
