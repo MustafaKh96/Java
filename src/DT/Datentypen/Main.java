@@ -14,6 +14,7 @@ public class Main {
         // Für kommazahl: (2)
         float b1 =  3; //=> 3.0  (4Byte)
         float b2 =  3f; //=> 3.0 (4Byte)
+        //float b3 = 3.0; wäre falsch!
         double d = 1.1; // 8 Byte
         char c1 = 'a'; // 2 Byte
         char c2 = 65; //=> A ; ASCII-Wrte
